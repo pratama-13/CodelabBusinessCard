@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Marvi Yoga Pratama</string>
+    <string name="title">Sunny Bakery</string>
+    <string name="mobile">+62 0881 1234 5678</string>
+    <string name="email">\@SunnyBakery</string>
+    <string name="website">www.sunnybakery.com</string>
+</resources>
